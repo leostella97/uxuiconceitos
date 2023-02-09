@@ -1,4 +1,4 @@
-# uxuiconceitos
+# UX/UI Conceitos
 Conceitos ampliados sobre UX/UI
 <br>
 <h2>Conceitos UX/UI</h2>
