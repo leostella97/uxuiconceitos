@@ -27,4 +27,4 @@ Conceitos ampliados sobre UX/UI
 <br>
 &nbsp • Media resolução
 <br>
-&nbsp • Alta resolução
+&nbsp • Alta resolução 
