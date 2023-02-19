@@ -58,9 +58,9 @@ Existem 3 tipos de <b>Wireframe</b>:
 		<td>Conhecimento técnico avançado</td>
 	</tr>
 </table>
-<br><br>
+<br>
 <b>Design system</b> trata-se de um <i>conjunto de padrões</i> de componentes de design, elaborados afim de manter a consistência <i>visual</i> e <i>funcional</i> de um produto sistema ou organização.
 <br>
-Ele facilita o designer a construir padrões para o <i>ambiente</i>, tendo a mesma <i>consistência visual</i>
+Ele facilita o designer a construir padrões para o <i>ambiente</i>, tendo a mesma <i>consistência visual</i>.
 <br>
 Design system são <i>"diversas pecinhas"</i> que são <b>padronizadas</b>, servem para ter uma <b>consistência</b>, uma <b>coerência</b> dentro do projeto, ela evita que cada página/frame seja <i>recriado</i>
