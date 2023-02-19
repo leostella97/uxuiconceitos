@@ -21,7 +21,7 @@ UI = User Interface</b>
 <br><br>
 Novamente falando sobre <b>Wireframes</b>, eles são representações visuais de <i>baixa fidelidade</i>, preocupando apenas em descrever todos os elementos presentes da maneira mais simples possível do projeto. Sem se preocupar com cores ou fontes, mas entregando de um modo organizado e limpo, <b>ainda não é um projeto final </b>, ele é onde começa tudo podendo sofrer modificações conforme o desenvolvimento do projeto.
 <br>
-Existem 3 tipos de <b>Wireframe</b>
+Existem 3 tipos de <b>Wireframe</b>:
 <br>
 • <b>Baixa</b> resolução
 <br>
