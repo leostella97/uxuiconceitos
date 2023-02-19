@@ -23,8 +23,11 @@ Conceitos ampliados sobre UX/UI
 <br>
 • Existem 3 tipos de <b>Wireframe</b>
 <br>
-&nbsp • Baixa resolução
+• Baixa resolução
 <br>
-&nbsp • Media resolução
+• Media resolução
 <br>
-&nbsp • Alta resolução
+• Alta resolução
+<br>
+<b>Mockup</b> é um modelo ou <i>protótipo</i> de uma interface de usuário que representa visualmente como uma aplicação, website ou produto digital irá parecer e funcionar antes de ser construído ou lançado oficialmente
+<br>
