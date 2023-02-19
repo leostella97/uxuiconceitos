@@ -39,3 +39,11 @@ Existem 3 tipos de <b>Wireframe</b>
 • Fácil de se fazer
 <br>
 • Custo baixo
+<br>
+<table>
+	<tr>
+		<th>Wireframe</th>
+		<th>Protótipo</th>
+		<th>Mockup/Layout final</th>
+	</tr>
+</table>
