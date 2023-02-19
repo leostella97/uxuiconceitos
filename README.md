@@ -28,9 +28,9 @@ Existem 3 tipos de <b>Wireframe</b>
 • <b>Media</b> resolução
 <br>
 • <b>Alta</b> resolução
-<br>
+<br><br>
 <b>Mockup</b> é um modelo ou <i>protótipo</i> de uma interface de usuário que representa visualmente como uma aplicação, website ou produto digital irá parecer e funcionar antes de ser construído ou lançado oficialmente
-
+<br><br>
 <table>
 	<tr>
 		<th>Wireframe</th>
