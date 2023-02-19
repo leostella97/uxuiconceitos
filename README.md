@@ -34,7 +34,7 @@ Existem 3 tipos de <b>Wireframe</b>
 <b>Wireframe</b>
 • Estático
 <br>
-• Sem representação visual satisfatória
+
 <br>
 • Fácil de se fazer
 <br>
@@ -46,4 +46,8 @@ Existem 3 tipos de <b>Wireframe</b>
 		<th>Protótipo</th>
 		<th>Mockup/Layout final</th>
 	</tr>
+	<tr>
+		<td>Sem representação visual satisfatória</td>
+		<td>Interativo</td>
+		<td>Estático ou interativo</td>
 </table>
