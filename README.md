@@ -38,7 +38,12 @@ Existem 3 tipos de <b>Wireframe</b>
 		<th>Mockup/Layout final</th>
 	</tr>
 	<tr>
-		<td>Sem representação visual satisfatória</td>
+		<td>Estático</td>
 		<td>Interativo</td>
 		<td>Estático ou interativo</td>
+	</tr>
+	<tr>
+		<td>Sem representação visual satisfatória</td>
+		<td>Representação visual média para alta</td>
+		<td>Representação visual alta</td>
 </table>
