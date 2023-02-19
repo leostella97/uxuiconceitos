@@ -29,7 +29,7 @@ Existem 3 tipos de <b>Wireframe</b>:
 <br>
 • <b>Alta</b> resolução
 <br><br>
-<b>Mockup</b> é um modelo ou <i>protótipo</i> de uma interface de usuário que representa visualmente como uma aplicação, website ou produto digital irá parecer e funcionar antes de ser construído ou lançado oficialmente
+<b>Mockup</b> é um modelo ou <i>protótipo</i> de uma interface de usuário que representa visualmente como uma aplicação, website ou produto digital irá parecer e funcionar antes de ser construído ou lançado oficialmente.
 <br><br>
 <table>
 	<tr>
@@ -56,4 +56,11 @@ Existem 3 tipos de <b>Wireframe</b>:
 		<td>Custo baixo</td>
 		<td>Teste de usabilidade</td>
 		<td>Conhecimento técnico avançado</td>
+	</tr>
 </table>
+<br><br>
+<b>Design system</b> trata-se de um <i>conjunto de padrões</i> de componentes de design, elaborados afim de manter a consistência <i>visual</i> e <i>funcional</i> de um produto sistema ou organização.
+<br>
+Ele facilita o designer a construir padrões para o <i>ambiente</i>, tendo a mesma <i>consistência visual</i>
+<br>
+Design system são <i>"diversas pecinhas"</i> que são <b>padronizadas</b>, servem para ter uma <b>consistência</b>, uma <b>coerência</b> dentro do projeto, ela evita que cada página/frame seja <i>recriado</i>
