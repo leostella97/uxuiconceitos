@@ -23,11 +23,11 @@ UI = User Interface</b>
 <br>
 Existem 3 tipos de <b>Wireframe</b>
 <br>
-• Baixa resolução
+• <b>Baixa</b> resolução
 <br>
-• Media resolução
+• <b>Media</b> resolução
 <br>
-• Alta resolução
+• <b>Alta</b> resolução
 <br>
 <b>Mockup</b> é um modelo ou <i>protótipo</i> de uma interface de usuário que representa visualmente como uma aplicação, website ou produto digital irá parecer e funcionar antes de ser construído ou lançado oficialmente
 <br>
