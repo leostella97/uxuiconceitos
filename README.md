@@ -68,3 +68,4 @@ Design system são <i>"diversas pecinhas"</i> que são <b>padronizadas</b>, serv
 O design system é um <i>organismo vivo</i>, podendo ser definido no começo do projeto, mas pode sofrer modificações dos componentesde acordo com as necessidades.
 <br>
 <i>"Design system não é um projeto, é um protocolo servindo outros produtos. - Nathan Curtis"
+<br>
