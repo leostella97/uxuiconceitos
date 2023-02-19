@@ -46,4 +46,10 @@ Existem 3 tipos de <b>Wireframe</b>
 		<td>Sem representação visual satisfatória</td>
 		<td>Representação visual média para alta</td>
 		<td>Representação visual alta</td>
+	</tr>
+	<tr>
+		<td>Fácil de fazer</td>
+		<td>Conhecimento técnico baixo</td>
+		<td>Coletar feedback e aprovação</td>
+	</tr>
 </table>
