@@ -31,15 +31,6 @@ Existem 3 tipos de <b>Wireframe</b>
 <br>
 <b>Mockup</b> é um modelo ou <i>protótipo</i> de uma interface de usuário que representa visualmente como uma aplicação, website ou produto digital irá parecer e funcionar antes de ser construído ou lançado oficialmente
 <br>
-<b>Wireframe</b>
-• Estático
-<br>
-
-<br>
-• Fácil de se fazer
-<br>
-• Custo baixo
-<br>
 <table>
 	<tr>
 		<th>Wireframe</th>
