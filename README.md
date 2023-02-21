@@ -84,3 +84,6 @@ Ele é responsável por <i>toda parte visual</i> de uma interface digital e fís
 <br><br>
 <b>Moodboard</b> é uma ferramenta de geração de ideias, gerar novas ideias ao projeto. É uma representação visual de elementos e referências (no estado inicial do projeto) que ajudarão a definir a aparência do produto.
 <br><br>
+<b>Briefing</b> é um conjunto de ideias que possibilita a equipe ou o executor da tarefa a compreender e desenvolver o projeto.
+<br><br>
+<b>Sistema de organização</b> é onde analisamos o contexto, o objetivo do cliente, suas exigências e a expectativa que ele tem em relação a interface. Aqui nós temos que analisar as restrições do projeto, o que <i>deve</i> e o que <i>não deve</i> conter na interface.
