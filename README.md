@@ -78,4 +78,7 @@ Ficou conhecida com o <i>aumento</i> da demanda de <i>SEO</i>, onde o conteúdo 
 <b>UX - User Experience</b>
 <br>
 Jakob Nielson e Donald Norma resumem a experiência do usuário como uma forma de englobar todos os aspectos da interação do usuário final com a empresa, seus serviços e seus produtos. Ela é <i>responsável direto</i> por estudar as melhores maneiras de atender as necessidades dos usuários e deixá-los satisfeitos com o <i>processo</i>.
-<br>
+<br><br>
+<b>UI - User Interface</b>
+Ele é responsável por <i>toda parte visual</i> de uma interface digital e física. O termo entrou em destaque com a necessidade de novas interfaces para aplicativos e sites, mas envolve desde a criação de painéis de carro até a concepção de um controle remoto.
+<br><br>
