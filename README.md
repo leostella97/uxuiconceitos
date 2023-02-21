@@ -71,9 +71,7 @@ O design system é um <i>organismo vivo</i>, podendo ser definido no começo do 
 <br><br>
 <b>AI - Arquitetura de Informação</b>
 <br>
-Ela é a área responsável por <i>organizar as informações de uma interface</i> de forma a facilitar seu entendimento pelo usuário.
-<br>
-Ficou conhecida com o <i>aumento</i> da demanda de <i>SEO</i>, onde o conteúdo e toda informação entrou como foco principal no mecanismo de pesquisa.
+Ela é a área responsável por <i>organizar as informações de uma interface</i> de forma a facilitar seu entendimento pelo usuário. Ficou conhecida com o <i>aumento</i> da demanda de <i>SEO</i>, onde o conteúdo e toda informação entrou como foco principal no mecanismo de pesquisa.
 <br><br>
 <b>UX - User Experience</b>
 <br>
