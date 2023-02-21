@@ -74,7 +74,7 @@ O design system é um <i>organismo vivo</i>, podendo ser definido no começo do 
 Ela é a área responsável por <i>organizar as informações de uma interface</i> de forma a facilitar seu entendimento pelo usuário.
 <br>
 Ficou conhecida com o <i>aumento</i> da demanda de <i>SEO</i>, onde o conteúdo e toda informação entrou como foco principal no mecanismo de pesquisa.
-<br>
+<br><br>
 <b>UX - User Experience</b>
 <br>
 Jakob Nielson e Donald Norma resumem a experiência do usuário como uma forma de englobar todos os aspectos da interação do usuário final com a empresa, seus serviços e seus produtos. Ela é <i>responsável direto</i> por estudar as melhores maneiras de atender as necessidades dos usuários e deixá-los satisfeitos com o <i>processo</i>.
