@@ -67,11 +67,15 @@ Design system são <i>"diversas pecinhas"</i> que são <b>padronizadas</b>, serv
 <br>
 O design system é um <i>organismo vivo</i>, podendo ser definido no começo do projeto, mas pode sofrer modificações dos componentesde acordo com as necessidades.
 <br>
-<i>"Design system não é um projeto, é um protocolo servindo outros produtos. - Nathan Curtis"
+<i>"Design system não é um projeto, é um protocolo servindo outros produtos. - Nathan Curtis"</i>
 <br><br>
 <b>AI - Arquitetura de Informação</b>
 <br>
 Ela é a área responsável por <i>organizar as informações de uma interface</i> de forma a facilitar seu entendimento pelo usuário.
 <br>
 Ficou conhecida com o <i>aumento</i> da demanda de <i>SEO</i>, onde o conteúdo e toda informação entrou como foco principal no mecanismo de pesquisa.
+<br>
+<b>UX - User Experience</b>
+<br>
+Jakob Nielson e Donald Norma resumem a experiência do usuário como uma forma de englobar todos os aspectos da interação do usuário final com a empresa, seus serviços e seus produtos. Ela é <i>responsável direto</i> por estudar as melhores maneiras de atender as necessidades dos usuários e deixá-los satisfeitos com o <i>processo</i>.
 <br>
