@@ -82,3 +82,5 @@ Jakob Nielson e Donald Norma resumem a experiência do usuário como uma forma d
 <b>UI - User Interface</b>
 Ele é responsável por <i>toda parte visual</i> de uma interface digital e física. O termo entrou em destaque com a necessidade de novas interfaces para aplicativos e sites, mas envolve desde a criação de painéis de carro até a concepção de um controle remoto.
 <br><br>
+<b>USABILIDADE</b> é um termo usado para definir a facilidade com que as pessoas empregam nume ferramenta ou num objeto para realizar a sua tarefa. Usabilidade é a capacidade da <i>ferramenta</i> ou <i>sistema</i> em fazer com que o usuário tenha sucesso na execução de uma tarefa.
+<br><br>
