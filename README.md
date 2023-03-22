@@ -1,6 +1,6 @@
 # UX/UI Conceitos 
 Conceitos ampliados sobre UX/UI
-<br>
+<br> 
 <h2>Conceitos UX/UI</h2>
 <h3>Explicação ampla sobre UX/UI Design</h3>
 <b>Layout</b> é a disposição dos elementos visuais em uma página. Geralmente envolve princípios organizacionais de composição para atingir objetivos específicos de comunicação, não é apenas digital, também é usado em jornais, revistas etc.
